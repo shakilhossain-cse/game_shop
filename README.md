@@ -1,6 +1,6 @@
 # This is a GameShop For Gamerz
 
-This is out live project link [GameShop](https://gameshopbd.netlify.com).
+This is out live project link [GameShop](https://gameshoph.netlify.app).
 
 ## Benifit For Our Website
 
